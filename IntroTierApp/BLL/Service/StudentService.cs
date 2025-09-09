@@ -34,5 +34,11 @@ namespace BLL.Service
             var st = GetMapper().Map<Student>(s);
             return DataAccessFactory.StudentData().Create(st);
         }
+        public static float GetCgpa(int id)
+        {
+            var cgpa = DataAccessFactory.StudentFeature().CalculateCgpa(id);
+            return cgpa;
+        }
     }
+    
 }
