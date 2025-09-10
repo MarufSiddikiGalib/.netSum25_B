@@ -12,3 +12,4 @@ C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroTierApp\DAL\bin\Debug\EntityFramework.
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroTierApp\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroTierApp\DAL\obj\Debug\DAL.Migrations.InitDB.resources
 C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroTierApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Tanvir Ahmed\Desktop\.NET\B\IntroTierApp\DAL\obj\Debug\DAL.Migrations.UpdateDB.resources
